@@ -11,8 +11,8 @@ This repository contains a project that demonstrates how to generate Class Activ
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/class-activation-map.git
-cd class-activation-map
+git clone https://github.com/MohammadH-Shirvani/CAM-CIFAR10.git
+cd CAM-CIFAR10
 ```
    
 ## Usage
