@@ -4,21 +4,16 @@ This repository contains a project that demonstrates how to generate Class Activ
 
 ## Project Structure
 
-- `data/`: Directory for dataset storage.
 - `models/`: Contains the model architecture.
-- `notebooks/`: Jupyter notebooks for experiments and visualizations.
 - `scripts/`: Python scripts for training and CAM generation.
-- `requirements.txt`: List of required packages.
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/class-activation-map.git
-   cd class-activation-map
-2. Install the required package
-   ```bash
-   pip install -r requirements.txt
+### Clone the repository:
+```bash
+git clone https://github.com/yourusername/class-activation-map.git
+cd class-activation-map
+```
    
 ## Usage
 
